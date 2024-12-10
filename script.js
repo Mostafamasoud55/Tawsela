@@ -59,12 +59,6 @@ var revenueChart = new Chart(ctx, {
         }
     }
 });
-Swal.fire({
-    title: 'تم!',
-    text: 'تمت إضافة السائق بنجاح',
-    icon: 'success',
-    confirmButtonText: 'موافق'
-});
 
 }
 
