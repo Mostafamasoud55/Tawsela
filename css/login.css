@@ -8,7 +8,7 @@
 }
 body {
     min-height: 100vh;
-    background-image: url('./imgs/pexels-artempodrez-7233356.jpg');
+    background-image: url('../imgs/pexels-artempodrez-7233356.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -102,20 +102,4 @@ input::placeholder {
 }
 .login-button:hover {
     background: #1d4ed8;
-}
-
-.forgot-password {
-    text-align: center;
-}
-
-
-.forgot-password a {
-    color: #2563eb;
-    text-decoration: none;
-    font-size: 0.875rem;
-    transition: color 0.2s;
-}
-
-.forgot-password a:hover {
-    color: #1d4ed8;
 }

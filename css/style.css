@@ -9,7 +9,7 @@
     padding: 2px;
     margin-left: 5px;
     width: calc(100% - 60px);
-    background-image: url('./imgs/pexels-artempodrez-7233356.jpg');
+    background-image: url('../imgs/pexels-artempodrez-7233356.jpg');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -293,7 +293,7 @@ thead {
 }
 
 .add-driver-form input {
-    padding: 8px;
+    text-align: right;
     border: 1px solid #ccc;
     border-radius: 4px;
 }
@@ -305,6 +305,7 @@ thead {
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    
 }
 
 .add-driver-form button:hover {
@@ -450,8 +451,3 @@ footer ul li a:hover {
     margin-left: 18px;
     margin-right: 18px;
  }
-/* .content .header {
-    margin-left: 80px;
-
-} */
-
